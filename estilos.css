@@ -1,3 +1,19 @@
 * body {
     background-color: rgb(172, 67, 166);
 }
+
+h1 {
+    text-align: center;
+}
+
+p{
+text-align: center;
+}
+
+em strong{
+    color: #ff0000;
+}
+
+#missao {
+    font-size: 20px;
+}
